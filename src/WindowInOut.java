@@ -1,3 +1,5 @@
+//@author: Hoang Huynh
+
 import javax.swing.JOptionPane;
 
 public class WindowInOut implements InOut

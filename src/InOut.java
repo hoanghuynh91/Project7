@@ -1,3 +1,5 @@
+// purpose in and out
+
 public interface InOut
 {
    String nextLine(String prompt);
